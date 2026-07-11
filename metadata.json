@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Bank",
+  "description": "Smart Banking Beyond Limits. Premium next-generation mobile banking experience featuring instant transfers, secure card controls, automated bill payments, investment portfolios, customized loan products, and an interactive admin dashboard.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

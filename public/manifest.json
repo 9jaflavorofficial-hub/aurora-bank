@@ -1,0 +1,17 @@
+{
+  "short_name": "Aurora Bank",
+  "name": "Aurora Bank - Smart Banking Beyond Limits",
+  "description": "Smart Banking Beyond Limits. Premium next-generation mobile banking experience.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "display": "standalone",
+  "orientation": "portrait"
+}
